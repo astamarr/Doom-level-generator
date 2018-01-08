@@ -1,7 +1,7 @@
 ﻿
 #region ================== Copyright (c) 2016 Guillaume Levieux
 /*
- * Copyright (c) 2016 Guillaume Levieux
+ * Copyright (c) 2016 Guillaume Levieux ( ENJMIN)
  * This program is released under GNU General Public License
  * 
  * This program is distributed in the hope that it will be useful,
